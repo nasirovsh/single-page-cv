@@ -1,8 +1,4 @@
-<style>
-body {
-    font-family: 'Georgia', 'Times New Roman', serif;
-}
-</style>
+<link rel="stylesheet" href="style.css">
 
 # Shavkat Nosirov - Senior Software Engineer
 
